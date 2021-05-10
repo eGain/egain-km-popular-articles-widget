@@ -29,10 +29,10 @@ The library provides a global object "eGainUI" to invoke the functions. It also 
 The library must be included in the page(s) that are going to enable eGainUI Widgets. The recommendation is to deploy this reference in a global header or footer so the widgets can be deployed dynamically to any page without further site modifications.
 
 Recommendation:
+* Please use it in the header: If the JavaScript library is being used by making a javascript function call.
+* Please use it in the footer: If the page/document load event is used to trigger the widget.
 
-In the header: If the JavaScript library is being used by making a javascript function call.
-In the footer: If the page/document load event is used to trigger the widget.
-For e.g., place the following script tags in the HTML page to load the eGain JavaScript library.
+Script tag to be added to load the eGain JavaScript library is -
 
 ```JavaScript
 <script type="text/javascript" src="//your_egain_system_url_with-context_root/widgets/libs/egain-ui-2.0.0.min.js"></script>
