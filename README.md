@@ -12,7 +12,7 @@ This widget renders an unordered list of popular articles in an HTML page based 
 1. Enable CORS in the eGain application. This is required in order to make the web service APIs work without CORS issues. Follow section "Enabling Cross-Origin Resource Sharing" of the product guide "eGain Administrator’s Guide to Administration Console".
 
 # Using Popular Articles Widget
-1. Clone or download the Sample Application from git hub repository.
+1. Clone or download the Sample Application from git hub repository https://github.com/g-aprajidiot/eGain-KM-Popular-Articles-Widget.
 1. Change below attributes as required in the index html file.
     1. your_egain_system_url_with-context_root
     1. your_kb_portal_id
