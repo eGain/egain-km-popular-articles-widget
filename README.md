@@ -1,6 +1,5 @@
 # eGain-KM-Popular-Articles-Widget
 
-# About
 This widget renders an unordered list of popular articles in an HTML page based upon initialization parameters in the HTML element. This widget does not have any additional input parameter. Hence it is better to invoke this widget at the page load.
 
 ![popular-articles-widget](https://user-images.githubusercontent.com/83938216/117636540-8ccb1280-b19e-11eb-9081-f6de40cd3733.JPG)
